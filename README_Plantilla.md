@@ -30,6 +30,8 @@ TALVEZ tiene un sensor magnetico de puerta que su funcion va a ser trabar una pu
                         salidas 
 - `Componente 1` buzzer
 - `Componente 2` led roja
+no se como entregarte la guia de preguntas asi que te puse el link aca del documeto
+https://docs.google.com/document/d/1hExgB3TIlGSGuNLoM8yQm1OBmnbIxjc687an3KpqvTI/edit?usp=sharing
 `Completar una vez definido el proyecto.`
 
 ## **`Requisitos`**
