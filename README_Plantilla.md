@@ -32,7 +32,11 @@ TALVEZ tiene un sensor magnetico de puerta que su funcion va a ser trabar una pu
 - `Componente 2` led roja
 no se como entregarte la guia de preguntas asi que te puse el link aca del documeto
 https://docs.google.com/document/d/1hExgB3TIlGSGuNLoM8yQm1OBmnbIxjc687an3KpqvTI/edit?usp=sharing
+
 `Completar una vez definido el proyecto.`
+
+proyecto terminado en tinkercad:
+https://www.tinkercad.com/things/8Ac38v8Db7c-simulacion-completa?sharecode=_9H7EE__2SbGhFb-vtSM2X1ROD5KLnK72l4Y91QneOY
 
 ## **`Requisitos`**
 
